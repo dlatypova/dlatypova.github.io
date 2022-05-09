@@ -37,7 +37,8 @@
       <link>https://example.com/post/git/</link>
       <pubDate>Sat, 07 May 2022 00:44:15 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Getting to know information about Version Control and Git&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What is Git?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widespread among software developers. Git has two main tasks: the first is to store information about all changes in your code, starting from the very first line, and the second is to ensure the convenience of teamwork on the code.&lt;/p&gt;
@@ -73,7 +74,8 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       <link>https://example.com/post/my_last_week/</link>
       <pubDate>Sat, 07 May 2022 00:38:21 +0300</pubDate>
       <guid>https://example.com/post/my_last_week/</guid>
-      <description>&lt;p&gt;My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Let&amp;rsquo;s see what happened to me last week.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.&lt;/p&gt;
 &lt;p&gt;That week was fun, because during the installation of the second operating system (Linux) on my laptop, Windows was accidentally demolished. The only thing that calmed me was that there were no particularly important documents, since I reinstalled it before starting my studies. Because of this oversight, I had to reinstall everything.&lt;/p&gt;
 &lt;p&gt;As I said earlier, I completed laboratory work №3 and №4, the 1st stage of an Individual project on OS. In the process of doing laboratory work №3, I learned how to make reports using the lightweight Markdown markup language. It was necessary to make a report in Markdown format on laboratory work №2, it turned out not to be very difficult. And as a result of laboratory work №4, I learned how to work in the Terminal, acquired practical skills of user interaction with the system via the command line.&lt;/p&gt;
 &lt;p&gt;It was also interesting to do laboratory work on a Computer workshop on IT. There I study the Arduino programming language. Throughout the module, we will perform laboratory work on robotics using an Arduino microcontroller.&lt;/p&gt;
