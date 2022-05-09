@@ -49,7 +49,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
     </item>
     
     <item>
-      <title>My_last_week</title>
+      <title>My last week</title>
       <link>https://example.com/post/my_last_week/</link>
       <pubDate>Sat, 07 May 2022 00:38:21 +0300</pubDate>
       <guid>https://example.com/post/my_last_week/</guid>
