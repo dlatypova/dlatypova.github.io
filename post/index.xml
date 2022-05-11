@@ -13,6 +13,71 @@
     </image>
     
     <item>
+      <title>Lightweight markup languages.</title>
+      <link>https://example.com/post/markup_languages/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markup_languages/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;What is a &amp;ldquo;markup language&amp;rdquo;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A markup language is a set of codes that, when applied to plain text, allows you to add one or more of the following properties (among others):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Define the text&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Structure the text&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Describe the layout of the text&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Decorate the text&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One markup language you encounter every day (unless you&amp;rsquo;re a hermit) is hypertext markup language, or HTML. Websites and apps that bring you news and show you your email are built, at least in part, with HTML markup using tags as a mechanism for markup of raw text content.&lt;/p&gt;
+&lt;p&gt;The problem with some markup languages (among them HTML) is that entering these tags manually is a very tedious task. And with other languages, such as XML, tags and their attributes make up more of the overall content than the text itself.&lt;/p&gt;
+&lt;h2 id=&#34;examples-of-markup-languages&#34;&gt;Examples of markup languages&lt;/h2&gt;
+&lt;p&gt;Markup languages are used wherever it is required to obtain formatted text based on text alone: in typography (SGML, TeX, PostScript, RTF), computer user interfaces (Microsoft Word, OpenOffice), the World Wide Web (HTML, XHTML, XML, WML, VML, PGML, SVG, XBRL).&lt;/p&gt;
+&lt;h2 id=&#34;lightweight-markup-languages&#34;&gt;Lightweight markup languages&lt;/h2&gt;
+&lt;p&gt;If you wanted to take advantage of markup languages, for example by publishing an HTML page on the internet or converting a DocBook file to PDF so that it could be printed, you had to do one of two things. On the one hand, you can spend time learning these languages from the inside and outside, writing them down manually, and then checking your work three times. Or you could invest the money in a tool that manages the complexity of them for you.&lt;/p&gt;
+&lt;p&gt;Fortunately, some enterprising developers have come up with a third option. They created new markup languages that contained many (in some cases most or all) of the functions of heavier analogues, but greatly simplified the syntax.
+They are used where a person has to prepare text in a regular text editor (blogs, forums, wikis), or where it is important that a user with a regular text editor can also read the text. Here are some widely used lightweight markup languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;BBCode&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;reStructuredText&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Textile&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wiki markup&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Various auto-documentation systems (for example, Javadoc).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;html&#34;&gt;HTML&lt;/h2&gt;
+&lt;p&gt;The most common language is HTML (an abbreviation of the English Hypertext Markup Language − &amp;ldquo;hypertext markup language&amp;rdquo;). It is standard for Internet documents, with its help all web pages are created. Documents that contain a special code are processed by browsers and presented to users in a convenient interface. Thus, you get the opportunity to view pages, print them, use them to transfer data to servers.&lt;/p&gt;
+&lt;h2 id=&#34;textile&#34;&gt;Textile&lt;/h2&gt;
+&lt;p&gt;It is one of the simplest markup languages, has somewhat more functionality. Its main task is to automatically convert text into markup while maintaining the breakdown into paragraphs. The language is used in CMS Textpattern.&lt;/p&gt;
+&lt;h2 id=&#34;bbcode&#34;&gt;BBCode&lt;/h2&gt;
+&lt;p&gt;The abbreviation from the English Bulletin Board Code is a markup language that is used for formatting (formatting) messages on various electronic bulletin boards, forums, comments, personal messages, and so on. Tags similar to HTML tags are used to format the text. Unlike HTML tags, BBCode is enclosed in square brackets.&lt;/p&gt;
+&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
+&lt;p&gt;It is a markup language that is capable of automating many operations related to the layout of documents, such as automatic page numbering, creation of tables, illustrations, formulas, cross-references, headers, footers, subject indexes, tables of contents and references. Being distributed under the LaTeX Project Public License, LaTeX refers to free software.&lt;/p&gt;
+&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is an easy way to add formatting. — for example, headings, bold/italic text and lists — in plain text. Instead of relying on HTML or WYSIWYG editors, Markdown allows you to create full pages of formatted text without having to take your fingers off the keyboard, and it&amp;rsquo;s all much more intuitive than HTML.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;While the idea of using markup languages with text documents was developing, this increased the use of markup languages in other areas, they suggested using them to represent various types of information, including playlists, vector graphics, web services, user interfaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My last week</title>
       <link>https://example.com/post/my_last_week/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -23,6 +88,19 @@
 &lt;p&gt;As I said earlier, I completed laboratory work №3 and №4, the 1st stage of an Individual project on OS. In the process of doing laboratory work №3, I learned how to make reports using the lightweight Markdown markup language. It was necessary to make a report in Markdown format on laboratory work №2, it turned out not to be very difficult. And as a result of laboratory work №4, I learned how to work in the Terminal, acquired practical skills of user interaction with the system via the command line.&lt;/p&gt;
 &lt;p&gt;It was also interesting to do laboratory work on a Computer workshop on IT. There I study the Arduino programming language. Throughout the module, we will perform laboratory work on robotics using an Arduino microcontroller.&lt;/p&gt;
 &lt;p&gt;In general, my last week was quite productive and entertaining.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My last week 2</title>
+      <link>https://example.com/post/my_last_week-2/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_last_week-2/</guid>
+      <description>&lt;h2 id=&#34;how-was-my-second-week&#34;&gt;How was my second week?&lt;/h2&gt;
+&lt;p&gt;Last week, in honor of the holiday, we had one day off. On this day, my friends and I took a walk around Moscow. The rest of my days were also devoted to Laboratory work on OS, programming technology and a Computer workshop on IT.&lt;/p&gt;
+&lt;p&gt;According to the OS, we did the 2nd stage of the project and two laboratory works №5 and №6. In Laboratory work №5, I got acquainted with the Linux file system, its structure, names and contents of directories. In addition, I acquired practical skills in using commands to work with files and directories, managing processes (and works), checking disk usage and maintaining the file system. And in Laboratory work №6, I got acquainted with the tools for searching files and filtering text data.&lt;/p&gt;
+&lt;p&gt;And also acquired practical skills: process management (and tasks), disk usage verification and file system maintenance. In the 2nd stage of the project, it was necessary to fill out information about yourself on the website.&lt;/p&gt;
+&lt;p&gt;I still practice programming technology in C++, and at the computer workshop on IT - in Arduino. In general, the whole subsequent module will be full of programming for me.&lt;/p&gt;
 </description>
     </item>
     
