@@ -5,12 +5,133 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>About reports...</title>
+      <link>https://example.com/post/report/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/report/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Compiling a report on the practice, the student evaluates the results of the work and draws conclusions about his qualifications, knowledge and skills acquired at the university. In order for a job to be accepted, it must be not only competent and informative.&lt;/p&gt;
+&lt;h2 id=&#34;rules-of-registration&#34;&gt;Rules of registration&lt;/h2&gt;
+&lt;p&gt;Despite the existence of their own requirements at each university, which can be found in the methodological literature of your university, there are standards for the design of the practice report:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The volume of the report is 15-25 pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The volume of the introduction and conclusion of 1-2 pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The report should be executed by any printing method on a typewriter or using a computer and a printer on one side of a sheet of A4 white paper, at one and a half intervals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Font Times New Roman 14.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Font color should be black.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Margins are applied: right - 10 mm, upper and lower - 20 mm, left - 30 mm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The orientation of the document is portrait, the document is stitched on the left.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The alignment method is in width, without indentation on the left and right.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The red line starts after 1.25 cm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No intervals are made before and after the paragraph.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Section headings are located in the middle of the sheet and are printed in bold capital letters without a dot at the end, without underlining. If the title consists of two sentences, they are separated by a dot. Each section starts with a new sheet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The headings of subsections and paragraphs should be printed with paragraph indentation with a capital letter without a dot at the end, without underlining, width alignment (bold are not highlighted). If the title consists of two sentences, they are separated by a dot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The pages of the report should be numbered in Arabic numerals, observing the end-to-end numbering throughout the text of the report. The page number is placed in the center of the lower part of the sheet without a dot. The title page is included in the general page numbering of the report. The page number is not put down on the title page. The content of the report is numbered 2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Between the sections and subsections available in the report, there is an indent of two blank lines with an interval of 1.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Subsections are separated from the text by two blank lines with an interval of 1.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;All elements of the report (introduction, main part, references, conclusion, appendices) begin with a new sheet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The name of the table should be placed above the table on the left, without paragraph indentation in one line with its number separated by a dash with an interval of 1.0. Example: &amp;ldquo;Table 2 – title&amp;rdquo;. Each table or figure should be addressed in the text of the work (before the table and figure) and a link to the source from which the table or figure is taken. It is allowed to use a font size in the table smaller than in the text (min -10) line spacing in the table 1.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When transferring a part of the table to another page, the word table, its number and name are indicated once on the left above the first part of the table, and the words &amp;ldquo;Continuation of the table&amp;rdquo; are also written on the left above the other parts and indicate the table number.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Separate the table from the text before and after an interval of 6 pt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At the end of the name of the table, a footnote is made to the source of the table:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;for the author&amp;rsquo;s tables, you should sign It Compiled by the author, and indicate the main literature that you used for calculations or compiling the table;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the borrowed tables are accompanied by links to the source, indicating the page numbers from where the information was taken.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;21&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;The name of the drawing is placed in the center under the drawing without a dot at the end, in the following format: the word Drawing, its number and the name of the drawing through a dash.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If the name of the drawing consists of several lines, then it should be written in one line spacing. The name of the drawing is given with a capital letter without a dot at the end. Hyphenation of words in the name of graphic material is not allowed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Equations and formulas should be separated from the text in a separate line. Above and below each formula or equation, at least one free line should be left with an interval of 1.0. If the equation does not fit in one line, then it should be moved after the equal sign (=) or after the plus signs (+), minus (-), multiplication (x), division (:) or other mathematical signs, and the sign at the beginning of the next line is repeated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The explanation of the values of symbols and numerical coefficients should be given directly under the formula in the same sequence in which they are given in formula. The value of each character and numerical coefficient must be given from a new line. The first line of the explanation begins with the word &amp;ldquo;where&amp;rdquo; without a colon from the paragraph. Formulas should be placed in the middle of the line and indicated by ordinal numbering within the entire work with Arabic numerals in parentheses in the rightmost position on the line.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;List of sources used – at least 15 (sources taken from the Internet must have an electronic access mode and the date of last access)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;components-in-the-report&#34;&gt;Components in the report&lt;/h2&gt;
+&lt;p&gt;In order to figure out how to properly issue a practice report according to GOST 2022, you need to remind what elements it consists of. These components are very important when writing, which means you need to treat them very thoroughly. The absence of even one element can disrupt the entire integrity of the work.&lt;/p&gt;
+&lt;p&gt;There should be such components as: the title page, the task of the head of the practice, the plan and diary of the practice, a review or characteristic from the head of the practice introduction, main content, conclusion, list of references and appendices.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-increase-originality&#34;&gt;How to increase originality&lt;/h2&gt;
+&lt;p&gt;When your report is ready, the question arises how to increase the originality of the practice report. After all, without the necessary percentage of uniqueness, your work simply will not be accepted and will not be credited. And this means that before submitting the report to the teacher for verification, it is necessary to work on improving its originality.&lt;/p&gt;
+&lt;p&gt;Firstly, in order to increase the originality of the practice report, you can use the so-called shingle method. Its essence is that the anti-plagiarism verification system has a pattern: it checks the text for plagiarism every 3-4 words. And therefore, if after each 3rd or 4th word, insert any other word that is appropriate in meaning, the verification algorithm will go wrong and the text will be recognized as completely original.&lt;/p&gt;
+&lt;p&gt;Secondly, you need to use as many synonymous words as possible. If you downloaded some text fragment from the Internet or someone else&amp;rsquo;s report, you need to replace as many words as possible with their synonyms in this piece. This will give a good result and show the high uniqueness of the report. The synonymizer program, which automatically selects synonyms, can be a great help to you in this.&lt;/p&gt;
+&lt;p&gt;Thirdly, the use of quotations can raise the originality of the report well. The program for checking for anti-plagiarism very often counts for a unique text of a quote, which means that their use can quickly increase uniqueness. Quoting in anti-plagiarism is a trick that can easily help you out and raise the originality of the text.&lt;/p&gt;
+&lt;h2 id=&#34;conclusioon&#34;&gt;Conclusioon&lt;/h2&gt;
+&lt;p&gt;Students should prepare and see a sample of the design of the practice report before writing it. Special attention should be paid to the design of the practice report according to GOST in order to do everything without mistakes and get a high evaluation score.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My 3 last week</title>
+      <link>https://example.com/post/my_last_week-3/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_last_week-3/</guid>
+      <description>&lt;h2 id=&#34;how-was-my-third-week&#34;&gt;How was my third week?&lt;/h2&gt;
+&lt;p&gt;Last week I had more Arduino programming. And in general, the week passed as well as the past.&lt;/p&gt;
+&lt;p&gt;In laboratory work №7 on the OS, I mastered the basic capabilities of the Midnight Commander command shell, and also acquired practical skills in viewing directories and files; manipulating them. In laboratory work №8, I got acquainted with the Linux operating system and gained practical skills working with the vi editor installed by default in almost all distributions. Laboratory work was not particularly difficult. I did seven laboratory works on Arduino, each of them was interesting.&lt;/p&gt;
+&lt;p&gt;I think next week will be more intense than the previous ones.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lightweight markup languages.</title>
