@@ -90,7 +90,7 @@
     <item>
       <title>About reports...</title>
       <link>https://example.com/post/report/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/report/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Compiling a report on the practice, the student evaluates the results of the work and draws conclusions about his qualifications, knowledge and skills acquired at the university. In order for a job to be accepted, it must be not only competent and informative.&lt;/p&gt;
@@ -199,7 +199,7 @@
     <item>
       <title>My 3 last week</title>
       <link>https://example.com/post/my_last_week-3/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/my_last_week-3/</guid>
       <description>&lt;h2 id=&#34;how-was-my-third-week&#34;&gt;How was my third week?&lt;/h2&gt;
 &lt;p&gt;Last week I had more Arduino programming. And in general, the week passed as well as the past.&lt;/p&gt;
@@ -211,7 +211,7 @@
     <item>
       <title>Lightweight markup languages.</title>
       <link>https://example.com/post/markup_languages/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markup_languages/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;What is a &amp;ldquo;markup language&amp;rdquo;?&lt;/strong&gt;&lt;/p&gt;
@@ -276,7 +276,7 @@ They are used where a person has to prepare text in a regular text editor (blogs
     <item>
       <title>My 2 last week</title>
       <link>https://example.com/post/my_last_week-2/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/my_last_week-2/</guid>
       <description>&lt;h2 id=&#34;how-was-my-second-week&#34;&gt;How was my second week?&lt;/h2&gt;
 &lt;p&gt;Last week, in honor of the holiday, we had one day off. On this day, my friends and I took a walk around Moscow. The rest of my days were also devoted to Laboratory work on OS, programming technology and a Computer workshop on IT.&lt;/p&gt;
@@ -289,7 +289,7 @@ They are used where a person has to prepare text in a regular text editor (blogs
     <item>
       <title>My 1 last week</title>
       <link>https://example.com/post/my_last_week/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/my_last_week/</guid>
       <description>&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;p&gt;My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.&lt;/p&gt;
@@ -303,7 +303,7 @@ They are used where a person has to prepare text in a regular text editor (blogs
     <item>
       <title>Version control. Git.</title>
       <link>https://example.com/post/git/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/git/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.&lt;/p&gt;
