@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post 1 | Academic</title>
+    <link>https://example.com/category/post-1/</link>
+      <atom:link href="https://example.com/category/post-1/index.xml" rel="self" type="application/rss+xml" />
+    <description>post 1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>post 1</title>
+      <link>https://example.com/category/post-1/</link>
+    </image>
+    
+    <item>
+      <title>My 1 last week</title>
+      <link>https://example.com/post/my_last_week/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_last_week/</guid>
+      <description>&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;p&gt;My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.&lt;/p&gt;
+&lt;p&gt;That week was fun, because during the installation of the second operating system (Linux) on my laptop, Windows was accidentally demolished. The only thing that calmed me was that there were no particularly important documents, since I reinstalled it before starting my studies. Because of this oversight, I had to reinstall everything.&lt;/p&gt;
+&lt;p&gt;As I said earlier, I completed laboratory work №3 and №4, the 1st stage of an Individual project on OS. In the process of doing laboratory work №3, I learned how to make reports using the lightweight Markdown markup language. It was necessary to make a report in Markdown format on laboratory work №2, it turned out not to be very difficult. And as a result of laboratory work №4, I learned how to work in the Terminal, acquired practical skills of user interaction with the system via the command line.&lt;/p&gt;
+&lt;p&gt;It was also interesting to do laboratory work on a Computer workshop on IT. There I study the Arduino programming language. Throughout the module, we will perform laboratory work on robotics using an Arduino microcontroller.&lt;/p&gt;
+&lt;p&gt;In general, my last week was quite productive and entertaining.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control. Git.</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
+&lt;p&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widespread among software developers. Git has two main tasks: the first is to store information about all changes in your code, starting from the very first line, and the second is to ensure the convenience of teamwork on the code.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-version-control-system&#34;&gt;What is a Version Control System?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Version Control System (VCS)&lt;/strong&gt; is a software to facilitate working with changing information. The version control system allows you to store multiple versions of the same document, go back to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development for storing the source codes of the program being developed.&lt;/p&gt;
+&lt;p&gt;Version control software keeps track of all changes made to the code in a special database. If an error is detected, developers can go back and perform a comparison with earlier versions of the code to fix errors, minimizing problems for all team members.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Centralized version control systems&lt;/strong&gt; are client-server applications, when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CVS (Concurrent Versions System, Simultaneous Versions System)&lt;/strong&gt; is one of the first systems that became widespread among developers, it originated in the late 80s of the last century. Currently, this product is not being developed, this is primarily due to a number of key drawbacks, such as the inability to rename files, inefficient storage, and almost complete lack of integrity control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Subversion&lt;/strong&gt; (SVN) is a version control system created to replace CVS. SVN was developed in 2004 and is still in use. Despite many advantages over CVS, SVN still has disadvantages, such as problems with renaming, inability to delete data from storage, problems in the branch merge operation, etc. In general, SVN was (and remains) a significant step forward compared to CVS.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Distributed Version Control Systems&lt;/strong&gt; (DVCS) allow you to store a repository (a copy of it) for each developer working with this system. At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After making a sufficient number of changes to the local copy, they (changes) are sent to the server. At the same time, the server is most often chosen conditionally, since in most DVCS there is no such thing as a “dedicated server with a central repository&amp;quot;.&lt;/p&gt;
+&lt;h2 id=&#34;git-hosting&#34;&gt;Git hosting&lt;/h2&gt;
+&lt;p&gt;A number of services provide hosting for git repositories, among the most famous are GitHub, Codebase, SourceForge, SourceHut, Gitea, Bitbucket, GitLab.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-an-ssh-key-and-why-is-it-needed&#34;&gt;What is an SSH key and why is it needed?&lt;/h2&gt;
+&lt;p&gt;To work from your computer with GitHub, to have access to projects stored on the service, to execute commands in the console without constantly confirming the password, you need to log in with the server. SSH keys help with this.
+Each SSH key contains a pair: a public (public) and a private (private) key. The public key is sent to the server, you don&amp;rsquo;t have to hide it from everyone and not worry that someone will see it and steal it. It is useless without its private key pair. But the private key is the secret part. Only you should have access to it.&lt;/p&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;git add&lt;/strong&gt; command adds the contents of the working directory to the index (staging area) for a subsequent commit.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;git status&lt;/strong&gt; command shows the status of files in the working directory and index: which files have been modified but not added to the index; which are waiting for a commit in the index.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;git diff&lt;/strong&gt; command is used to calculate the difference between any two Git trees.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;git commit&lt;/strong&gt; command takes all the data added to the index using git add and stores their cast in the internal database, and then shifts the pointer of the current branch to this cast.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;git rm&lt;/strong&gt; command is used in Git to delete files from the index and working copy.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;git mv&lt;/strong&gt; command is just a convenient way to move a file and then execute git add for the new file and git rm for the old one.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;git clean&lt;/strong&gt; command is used to remove garbage from the working directory.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We have analyzed the basic knowledge of what a Version Control System and Git are. I tried to collect all the most important information and present it as succinctly and concisely as possible. Git is quite complex, and there are many more functions in it&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

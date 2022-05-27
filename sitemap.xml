@@ -18,11 +18,15 @@
   <url>
     <loc>https://example.com/project/example/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/categories/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/tag/cpp/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/my_last_week-4/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/post-4/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -36,11 +40,17 @@
   <url>
     <loc>https://example.com/post/my_last_week-3/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/category/post-3/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/post/markup_languages/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/my_last_week-2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/category/post-2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/post/my_last_week/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/post-1/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/git/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -56,6 +66,4 @@
   <url>
     <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
