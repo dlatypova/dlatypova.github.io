@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post 3 | D. Latypova</title>
-    <link>https://example.com/category/post-3/</link>
-      <atom:link href="https://example.com/category/post-3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/category/post-3/</link>
+      <atom:link href="https://dlatypova.github.io/category/post-3/index.xml" rel="self" type="application/rss+xml" />
     <description>post 3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>post 3</title>
-      <link>https://example.com/category/post-3/</link>
+      <link>https://dlatypova.github.io/category/post-3/</link>
     </image>
     
     <item>
       <title>About reports...</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://dlatypova.github.io/post/report/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://dlatypova.github.io/post/report/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Compiling a report on the practice, the student evaluates the results of the work and draws conclusions about his qualifications, knowledge and skills acquired at the university. In order for a job to be accepted, it must be not only competent and informative.&lt;/p&gt;
 &lt;h2 id=&#34;rules-of-registration&#34;&gt;Rules of registration&lt;/h2&gt;
@@ -123,9 +123,9 @@
     
     <item>
       <title>My 3 last week</title>
-      <link>https://example.com/post/my_last_week-3/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-3/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-3/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-3/</guid>
       <description>&lt;h2 id=&#34;how-was-my-third-week&#34;&gt;How was my third week?&lt;/h2&gt;
 &lt;p&gt;Last week I had more Arduino programming. And in general, the week passed as well as the past.&lt;/p&gt;
 &lt;p&gt;In laboratory work №7 on the OS, I mastered the basic capabilities of the Midnight Commander command shell, and also acquired practical skills in viewing directories and files; manipulating them. In laboratory work №8, I got acquainted with the Linux operating system and gained practical skills working with the vi editor installed by default in almost all distributions. Laboratory work was not particularly difficult. I did seven laboratory works on Arduino, each of them was interesting.&lt;/p&gt;

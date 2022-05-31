@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Д.Латыпова</title>
-    <link>https://example.com/ru/</link>
-      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/ru/</link>
+      <atom:link href="https://dlatypova.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Д.Латыпова</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Д.Латыпова</title>
-      <link>https://example.com/ru/</link>
+      <link>https://dlatypova.github.io/ru/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/ru/talk/example-talk/</link>
+      <link>https://dlatypova.github.io/ru/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <guid>https://dlatypova.github.io/ru/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Моя 5 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-5/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-5/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-5/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-5/</guid>
       <description>&lt;h2 id=&#34;как-прошла-моя-5-неделя&#34;&gt;Как прошла моя 5 неделя?&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе я закрывала все долги. Написала контрольную работу по русскому языку, сдала лабораторные работы и домашнее задание по С++. Все также выполняла лабораторные работы по ОС и немного программировала на языке Arduino.&lt;/p&gt;
 &lt;p&gt;В процессе выполнения лабораторной работы №11 и №12 по ОС я изучила основы программирования в оболочке ОС UNIX и научилась писать более сложные командные файлы с использованием логических управляющих конструкций и циклов. Также на прошлой неделе я представила доклад. На этой неделе наконец то мы заканчиваем выполнение лабораторных работ.&lt;/p&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Сетевые возможности Linux</title>
-      <link>https://example.com/ru/post/linux/</link>
+      <link>https://dlatypova.github.io/ru/post/linux/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/linux/</guid>
+      <guid>https://dlatypova.github.io/ru/post/linux/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Операционная система Linux - самый популярный представитель «свободного программного обеспечения». Сеть — это средство, позволяющее соединяться двум или более компьютерам между собой. Большинство базовых функций (файловые системы, печать, создание резервных копий) могут быть реализованы посредством сети. Это значительно облегчает работу системного администратора, так как позволяет использовать централизованное администрирование. Под управлением ОС Linux надежно работают и серверные приложения, и межсетевые экраны, и системы обнаружения компьютерных атак.&lt;/p&gt;
 &lt;h2 id=&#34;многоуровневый-подход-к-организации-сетевых-взаимодействий&#34;&gt;Многоуровневый подход к организации сетевых взаимодействий&lt;/h2&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Моя 4 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-4/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-4/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-4/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-4/</guid>
       <description>&lt;h2 id=&#34;как-прошла-4-неделя&#34;&gt;Как прошла 4 неделя?&lt;/h2&gt;
 &lt;p&gt;Прошлая неделя снова не была полна ярких событий. Я как всегда выполняла лабораторные работы по ОС и немного программировала на языке С++.&lt;/p&gt;
 &lt;p&gt;В процессе выполнения лабораторной работы №9 по ОС я получила практические навыки по работе с редактором Emacs.  Редактор emacs оказался удобнее, чем редактор vi. В лабораторной работе №10 по ОС я изучила основы программирования в оболочке ОС UNIX/Linux и научилась писать небольшие командные файлы. Скоро конец модуля, поэтому я хочу как можно скорее закончить выполнение лабораторных работ.&lt;/p&gt;
@@ -97,9 +97,9 @@
     
     <item>
       <title>Научное программирование</title>
-      <link>https://example.com/ru/post/scientific-prog/</link>
+      <link>https://dlatypova.github.io/ru/post/scientific-prog/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/scientific-prog/</guid>
+      <guid>https://dlatypova.github.io/ru/post/scientific-prog/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Программирование часто упоминают в прикладном контексте. Кажется, с его помощью создают только мобильные приложения, интернет-системы и спецэффекты для кино. Но первоначально программирование предназначалось для решения научных задач. Кроме того, программирование само — наука, узнать о которой будет полезно тем, кто решил связать карьеру с компьютерной разработкой.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-научное-программирование&#34;&gt;Что такое Научное программирование?&lt;/h2&gt;
@@ -121,27 +121,27 @@
     
     <item>
       <title>Проекты C&#43;&#43;</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://dlatypova.github.io/ru/project/example/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://dlatypova.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Выполнение различных проектов программ на C++&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Проекты Ардуино</title>
-      <link>https://example.com/ru/project/example-2/</link>
+      <link>https://dlatypova.github.io/ru/project/example-2/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example-2/</guid>
+      <guid>https://dlatypova.github.io/ru/project/example-2/</guid>
       <description>&lt;p&gt;Выполнение различных проектов программ на Arduino.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Моя 3 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-3/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-3/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-3/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-3/</guid>
       <description>&lt;h2 id=&#34;как-прошла-3-неделя&#34;&gt;Как прошла 3 неделя?&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе у меня было больше программирования на Ардуино. А в целом, неделя проходила также, как и прошедшие.&lt;/p&gt;
 &lt;p&gt;В лабораторной работе №7 по ОС я освоила основные возможности командной оболочки Midnight Commander, а также приобрела навыки практической работы по просмотру каталогов и файлов; манипуляций с ними. В лабораторной работе №8 я познакомилась с операционной системой Linux и получила практические навыки работы с редактором vi, установленным по умолчанию практически во всех дистрибутивах. Лабораторные работы не были особо сложными.  По Ардуино я сделала семь лабораторных работ, каждая из них была интересной.&lt;/p&gt;
@@ -151,9 +151,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/ru/post/report/</link>
+      <link>https://dlatypova.github.io/ru/post/report/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/report/</guid>
+      <guid>https://dlatypova.github.io/ru/post/report/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Составляя отчет по практике, студент оценивает результаты работы и делает выводы о своей квалификации, знаниях и навыках, полученных в вузе. Чтобы работу приняли, она должна быть не только грамотной и содержательной.&lt;/p&gt;
 &lt;h2 id=&#34;правила-оформления&#34;&gt;Правила оформления&lt;/h2&gt;
@@ -208,9 +208,9 @@
     
     <item>
       <title>Легковесные языки разметки</title>
-      <link>https://example.com/ru/post/markup_languages/</link>
+      <link>https://dlatypova.github.io/ru/post/markup_languages/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markup_languages/</guid>
+      <guid>https://dlatypova.github.io/ru/post/markup_languages/</guid>
       <description>&lt;h2 id=&#34;вступление&#34;&gt;Вступление&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Что такое «язык разметки»?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Язык разметки — это набор кодов, который при применении к обычному тексту позволяет добавить одно или несколько из следующих свойств (среди прочих):&lt;/p&gt;
@@ -253,9 +253,9 @@
     
     <item>
       <title>Моя 2 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-2/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-2/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-2/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-2/</guid>
       <description>&lt;h2 id=&#34;как-прошла-2-неделя&#34;&gt;Как прошла 2 неделя?&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе в честь праздника у нас был один выходной. В этот день мы с друзьями прогулялись по Москве. Остальные дни у меня все также были посвящены Лабораторным работам по ОС, технологии программировании и Компьютерному практикуму по ИТ.&lt;/p&gt;
 &lt;p&gt;По ОС мы делали 2 этап проекта и две лабораторных работы №5 и №6. В Лабораторной работе №5 я ознакомилась с файловой системой Linux, её структурой, именами и содержанием каталогов. Кроме того, я приобрела практические навыки по применению команд для работы с файлами и каталогами, по управлению процессами (и работами), по проверке использования диска и обслуживанию файловой системы. А в  Лабораторной работе №6 я ознакомилась с инструментами поиска файлов и фильтрации текстовых данных.&lt;/p&gt;
@@ -267,9 +267,9 @@
     
     <item>
       <title>Моя 1 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week/</guid>
       <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Моя прошлая неделя пролетела незаметно. На протяжении почти всей недели я разбиралась с Операционными системами и Компьютерным практикумом по ИТ. За прошедшую неделю я выполнила две лабораторных работы и 1 этап индивидуального проекта по Операционным системам, а также лабораторную работу по Компьютерному практикуму по ИТ.&lt;/p&gt;
 &lt;p&gt;Та неделя прошла весело, потому что во время установки второй операционной системы (Linux) на мой ноутбук, мне нечаянно снесли Windows. Успокаивало лишь то, что там не было особо важных документов, так как я его переустановила перед началом учебы. Из-за этой оплошности, пришлось все заново устанавливать.&lt;/p&gt;
@@ -281,9 +281,9 @@
     
     <item>
       <title>Управление версиями. Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://dlatypova.github.io/ru/post/git/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://dlatypova.github.io/ru/post/git/</guid>
       <description>&lt;h2 id=&#34;вступление&#34;&gt;Вступление&lt;/h2&gt;
 &lt;p&gt;В последние годы популярность git демонстрирует взрывной рост. Эта система контроля версий используется различными проектами с открытым исходным кодом. Можно начать с изучения наиболее часто используемых команд, и после этого постепенно расширять свои знания. Именно так мы и поступим в этой статье.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;
@@ -317,9 +317,9 @@ Git-хостинг&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/ru/slides/example/</link>
+      <link>https://dlatypova.github.io/ru/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/slides/example/</guid>
+      <guid>https://dlatypova.github.io/ru/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -442,9 +442,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/ru/publication/example/</link>
+      <link>https://dlatypova.github.io/ru/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/example/</guid>
+      <guid>https://dlatypova.github.io/ru/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -461,9 +461,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/ru/admin/config.yml</link>
+      <link>https://dlatypova.github.io/ru/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/admin/config.yml</guid>
+      <guid>https://dlatypova.github.io/ru/admin/config.yml</guid>
       <description></description>
     </item>
     

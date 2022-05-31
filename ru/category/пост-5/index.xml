@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>пост 5 | Д.Латыпова</title>
-    <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/</link>
-      <atom:link href="https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/</link>
+      <atom:link href="https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/index.xml" rel="self" type="application/rss+xml" />
     <description>пост 5</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>пост 5</title>
-      <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/</link>
+      <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/</link>
     </image>
     
     <item>
       <title>Моя 5 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-5/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-5/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-5/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-5/</guid>
       <description>&lt;h2 id=&#34;как-прошла-моя-5-неделя&#34;&gt;Как прошла моя 5 неделя?&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе я закрывала все долги. Написала контрольную работу по русскому языку, сдала лабораторные работы и домашнее задание по С++. Все также выполняла лабораторные работы по ОС и немного программировала на языке Arduino.&lt;/p&gt;
 &lt;p&gt;В процессе выполнения лабораторной работы №11 и №12 по ОС я изучила основы программирования в оболочке ОС UNIX и научилась писать более сложные командные файлы с использованием логических управляющих конструкций и циклов. Также на прошлой неделе я представила доклад. На этой неделе наконец то мы заканчиваем выполнение лабораторных работ.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Сетевые возможности Linux</title>
-      <link>https://example.com/ru/post/linux/</link>
+      <link>https://dlatypova.github.io/ru/post/linux/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/linux/</guid>
+      <guid>https://dlatypova.github.io/ru/post/linux/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Операционная система Linux - самый популярный представитель «свободного программного обеспечения». Сеть — это средство, позволяющее соединяться двум или более компьютерам между собой. Большинство базовых функций (файловые системы, печать, создание резервных копий) могут быть реализованы посредством сети. Это значительно облегчает работу системного администратора, так как позволяет использовать централизованное администрирование. Под управлением ОС Linux надежно работают и серверные приложения, и межсетевые экраны, и системы обнаружения компьютерных атак.&lt;/p&gt;
 &lt;h2 id=&#34;многоуровневый-подход-к-организации-сетевых-взаимодействий&#34;&gt;Многоуровневый подход к организации сетевых взаимодействий&lt;/h2&gt;

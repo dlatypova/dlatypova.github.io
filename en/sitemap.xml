@@ -4,54 +4,34 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://dlatypova.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://dlatypova.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://dlatypova.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://dlatypova.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://dlatypova.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
+      href="https://dlatypova.github.io/event/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -64,236 +44,256 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/post/linux/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/categories/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/linux/"
+      href="https://dlatypova.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/linux/"
+      href="https://dlatypova.github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/post/my_last_week-5/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/my_last_week-5/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/my_last_week-5/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/category/post-5/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/linux/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://dlatypova.github.io/ru/post/linux/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://dlatypova.github.io/post/linux/"
     /></url>
   <url>
-    <loc>https://example.com/tag/arduino/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/example-2/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/my_last_week-5/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example-2/"
+      href="https://dlatypova.github.io/ru/post/my_last_week-5/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example-2/"
+      href="https://dlatypova.github.io/post/my_last_week-5/"
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/category/post-5/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dlatypova.github.io/post/</loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://dlatypova.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://dlatypova.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/tag/cpp/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/tag/arduino/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dlatypova.github.io/project/example-2/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/cpp/"
+      href="https://dlatypova.github.io/ru/project/example-2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/cpp/"
+      href="https://dlatypova.github.io/project/example-2/"
     /></url>
   <url>
-    <loc>https://example.com/post/my_last_week-4/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/project/example/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/my_last_week-4/"
+      href="https://dlatypova.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/my_last_week-4/"
+      href="https://dlatypova.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/category/post-4/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/tag/cpp/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://dlatypova.github.io/ru/tag/cpp/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://dlatypova.github.io/tag/cpp/"
     /></url>
   <url>
-    <loc>https://example.com/post/scientific-prog/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/my_last_week-4/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/scientific-prog/"
+      href="https://dlatypova.github.io/ru/post/my_last_week-4/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/scientific-prog/"
+      href="https://dlatypova.github.io/post/my_last_week-4/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/category/post-4/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dlatypova.github.io/project/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://dlatypova.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://dlatypova.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/post/report/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/scientific-prog/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/report/"
+      href="https://dlatypova.github.io/ru/post/scientific-prog/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/report/"
+      href="https://dlatypova.github.io/post/scientific-prog/"
     /></url>
   <url>
-    <loc>https://example.com/post/my_last_week-3/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/tags/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/my_last_week-3/"
+      href="https://dlatypova.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/my_last_week-3/"
+      href="https://dlatypova.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/category/post-3/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/markup_languages/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/report/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markup_languages/"
+      href="https://dlatypova.github.io/ru/post/report/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/markup_languages/"
+      href="https://dlatypova.github.io/post/report/"
     /></url>
   <url>
-    <loc>https://example.com/post/my_last_week-2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/my_last_week-3/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/my_last_week-2/"
+      href="https://dlatypova.github.io/ru/post/my_last_week-3/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/my_last_week-2/"
+      href="https://dlatypova.github.io/post/my_last_week-3/"
     /></url>
   <url>
-    <loc>https://example.com/category/post-2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://dlatypova.github.io/category/post-3/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/my_last_week/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/markup_languages/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/my_last_week/"
+      href="https://dlatypova.github.io/ru/post/markup_languages/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/my_last_week/"
+      href="https://dlatypova.github.io/post/markup_languages/"
     /></url>
   <url>
-    <loc>https://example.com/category/post-1/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/git/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/post/my_last_week-2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/git/"
+      href="https://dlatypova.github.io/ru/post/my_last_week-2/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/git/"
+      href="https://dlatypova.github.io/post/my_last_week-2/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/category/post-2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dlatypova.github.io/post/my_last_week/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://dlatypova.github.io/ru/post/my_last_week/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://dlatypova.github.io/post/my_last_week/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/category/post-1/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://dlatypova.github.io/post/git/</loc><lastmod>2022-05-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://dlatypova.github.io/ru/post/git/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://dlatypova.github.io/post/git/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://dlatypova.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://dlatypova.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://dlatypova.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://dlatypova.github.io/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://dlatypova.github.io/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://dlatypova.github.io/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://dlatypova.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://dlatypova.github.io/ru/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://dlatypova.github.io/publication/example/"
+    /></url>
+  <url>
+    <loc>https://dlatypova.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://dlatypova.github.io/ru/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://dlatypova.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://dlatypova.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://dlatypova.github.io/ru/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://dlatypova.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

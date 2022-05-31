@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post 4 | D. Latypova</title>
-    <link>https://example.com/category/post-4/</link>
-      <atom:link href="https://example.com/category/post-4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/category/post-4/</link>
+      <atom:link href="https://dlatypova.github.io/category/post-4/index.xml" rel="self" type="application/rss+xml" />
     <description>post 4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>post 4</title>
-      <link>https://example.com/category/post-4/</link>
+      <link>https://dlatypova.github.io/category/post-4/</link>
     </image>
     
     <item>
       <title>My 4 last week</title>
-      <link>https://example.com/post/my_last_week-4/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-4/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-4/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-4/</guid>
       <description>&lt;h2 id=&#34;how-was-my-fourth-week&#34;&gt;How was my fourth week?&lt;/h2&gt;
 &lt;p&gt;Last week was not full of bright events again. As always, I did laboratory work on the OS and programmed a little in C++.&lt;/p&gt;
 &lt;p&gt;In the process of doing laboratory work No. 9 on OS, I gained practical skills in working with the Emacs editor. The emacs editor turned out to be more convenient than the vi editor. In laboratory work No. 10 on OS, I learned the basics of programming in the UNIX/Linux OS shell and learned how to write small batch files. The end of the module is coming soon, so I want to finish the lab work as soon as possible.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Scientific Programming</title>
-      <link>https://example.com/post/scientific-prog/</link>
+      <link>https://dlatypova.github.io/post/scientific-prog/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-prog/</guid>
+      <guid>https://dlatypova.github.io/post/scientific-prog/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-scientific-programming&#34;&gt;What is Scientific Programming?&lt;/h2&gt;

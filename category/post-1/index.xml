@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post 1 | D. Latypova</title>
-    <link>https://example.com/category/post-1/</link>
-      <atom:link href="https://example.com/category/post-1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/category/post-1/</link>
+      <atom:link href="https://dlatypova.github.io/category/post-1/index.xml" rel="self" type="application/rss+xml" />
     <description>post 1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>post 1</title>
-      <link>https://example.com/category/post-1/</link>
+      <link>https://dlatypova.github.io/category/post-1/</link>
     </image>
     
     <item>
       <title>My 1 last week</title>
-      <link>https://example.com/post/my_last_week/</link>
+      <link>https://dlatypova.github.io/post/my_last_week/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week/</guid>
       <description>&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;p&gt;My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.&lt;/p&gt;
 &lt;p&gt;That week was fun, because during the installation of the second operating system (Linux) on my laptop, Windows was accidentally demolished. The only thing that calmed me was that there were no particularly important documents, since I reinstalled it before starting my studies. Because of this oversight, I had to reinstall everything.&lt;/p&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Version control. Git</title>
-      <link>https://example.com/post/git/</link>
+      <link>https://dlatypova.github.io/post/git/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://dlatypova.github.io/post/git/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;

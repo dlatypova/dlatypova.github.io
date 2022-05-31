@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>пост 1 | Д.Латыпова</title>
-    <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
-      <atom:link href="https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
+      <atom:link href="https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-1/index.xml" rel="self" type="application/rss+xml" />
     <description>пост 1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>пост 1</title>
-      <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
+      <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
     </image>
     
     <item>
       <title>Моя 1 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week/</guid>
       <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;Моя прошлая неделя пролетела незаметно. На протяжении почти всей недели я разбиралась с Операционными системами и Компьютерным практикумом по ИТ. За прошедшую неделю я выполнила две лабораторных работы и 1 этап индивидуального проекта по Операционным системам, а также лабораторную работу по Компьютерному практикуму по ИТ.&lt;/p&gt;
 &lt;p&gt;Та неделя прошла весело, потому что во время установки второй операционной системы (Linux) на мой ноутбук, мне нечаянно снесли Windows. Успокаивало лишь то, что там не было особо важных документов, так как я его переустановила перед началом учебы. Из-за этой оплошности, пришлось все заново устанавливать.&lt;/p&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Управление версиями. Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://dlatypova.github.io/ru/post/git/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://dlatypova.github.io/ru/post/git/</guid>
       <description>&lt;h2 id=&#34;вступление&#34;&gt;Вступление&lt;/h2&gt;
 &lt;p&gt;В последние годы популярность git демонстрирует взрывной рост. Эта система контроля версий используется различными проектами с открытым исходным кодом. Можно начать с изучения наиболее часто используемых команд, и после этого постепенно расширять свои знания. Именно так мы и поступим в этой статье.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-git&#34;&gt;Что такое Git?&lt;/h2&gt;

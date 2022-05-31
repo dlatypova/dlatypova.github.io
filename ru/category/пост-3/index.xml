@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>пост 3 | Д.Латыпова</title>
-    <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
-      <atom:link href="https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
+      <atom:link href="https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-3/index.xml" rel="self" type="application/rss+xml" />
     <description>пост 3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>пост 3</title>
-      <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
+      <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
     </image>
     
     <item>
       <title>Моя 3 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-3/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-3/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-3/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-3/</guid>
       <description>&lt;h2 id=&#34;как-прошла-3-неделя&#34;&gt;Как прошла 3 неделя?&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе у меня было больше программирования на Ардуино. А в целом, неделя проходила также, как и прошедшие.&lt;/p&gt;
 &lt;p&gt;В лабораторной работе №7 по ОС я освоила основные возможности командной оболочки Midnight Commander, а также приобрела навыки практической работы по просмотру каталогов и файлов; манипуляций с ними. В лабораторной работе №8 я познакомилась с операционной системой Linux и получила практические навыки работы с редактором vi, установленным по умолчанию практически во всех дистрибутивах. Лабораторные работы не были особо сложными.  По Ардуино я сделала семь лабораторных работ, каждая из них была интересной.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/ru/post/report/</link>
+      <link>https://dlatypova.github.io/ru/post/report/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/report/</guid>
+      <guid>https://dlatypova.github.io/ru/post/report/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Составляя отчет по практике, студент оценивает результаты работы и делает выводы о своей квалификации, знаниях и навыках, полученных в вузе. Чтобы работу приняли, она должна быть не только грамотной и содержательной.&lt;/p&gt;
 &lt;h2 id=&#34;правила-оформления&#34;&gt;Правила оформления&lt;/h2&gt;

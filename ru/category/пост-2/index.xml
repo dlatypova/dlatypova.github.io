@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>пост 2 | Д.Латыпова</title>
-    <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
-      <atom:link href="https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
+      <atom:link href="https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-2/index.xml" rel="self" type="application/rss+xml" />
     <description>пост 2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>пост 2</title>
-      <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
+      <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
     </image>
     
     <item>
       <title>Легковесные языки разметки</title>
-      <link>https://example.com/ru/post/markup_languages/</link>
+      <link>https://dlatypova.github.io/ru/post/markup_languages/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markup_languages/</guid>
+      <guid>https://dlatypova.github.io/ru/post/markup_languages/</guid>
       <description>&lt;h2 id=&#34;вступление&#34;&gt;Вступление&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Что такое «язык разметки»?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Язык разметки — это набор кодов, который при применении к обычному тексту позволяет добавить одно или несколько из следующих свойств (среди прочих):&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Моя 2 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-2/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-2/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-2/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-2/</guid>
       <description>&lt;h2 id=&#34;как-прошла-2-неделя&#34;&gt;Как прошла 2 неделя?&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе в честь праздника у нас был один выходной. В этот день мы с друзьями прогулялись по Москве. Остальные дни у меня все также были посвящены Лабораторным работам по ОС, технологии программировании и Компьютерному практикуму по ИТ.&lt;/p&gt;
 &lt;p&gt;По ОС мы делали 2 этап проекта и две лабораторных работы №5 и №6. В Лабораторной работе №5 я ознакомилась с файловой системой Linux, её структурой, именами и содержанием каталогов. Кроме того, я приобрела практические навыки по применению команд для работы с файлами и каталогами, по управлению процессами (и работами), по проверке использования диска и обслуживанию файловой системы. А в  Лабораторной работе №6 я ознакомилась с инструментами поиска файлов и фильтрации текстовых данных.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>пост 4 | Д.Латыпова</title>
-    <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
-      <atom:link href="https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
+      <atom:link href="https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/index.xml" rel="self" type="application/rss+xml" />
     <description>пост 4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>пост 4</title>
-      <link>https://example.com/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
+      <link>https://dlatypova.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
     </image>
     
     <item>
       <title>Моя 4 прошедшая неделя</title>
-      <link>https://example.com/ru/post/my_last_week-4/</link>
+      <link>https://dlatypova.github.io/ru/post/my_last_week-4/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/my_last_week-4/</guid>
+      <guid>https://dlatypova.github.io/ru/post/my_last_week-4/</guid>
       <description>&lt;h2 id=&#34;как-прошла-4-неделя&#34;&gt;Как прошла 4 неделя?&lt;/h2&gt;
 &lt;p&gt;Прошлая неделя снова не была полна ярких событий. Я как всегда выполняла лабораторные работы по ОС и немного программировала на языке С++.&lt;/p&gt;
 &lt;p&gt;В процессе выполнения лабораторной работы №9 по ОС я получила практические навыки по работе с редактором Emacs.  Редактор emacs оказался удобнее, чем редактор vi. В лабораторной работе №10 по ОС я изучила основы программирования в оболочке ОС UNIX/Linux и научилась писать небольшие командные файлы. Скоро конец модуля, поэтому я хочу как можно скорее закончить выполнение лабораторных работ.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Научное программирование</title>
-      <link>https://example.com/ru/post/scientific-prog/</link>
+      <link>https://dlatypova.github.io/ru/post/scientific-prog/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/scientific-prog/</guid>
+      <guid>https://dlatypova.github.io/ru/post/scientific-prog/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Программирование часто упоминают в прикладном контексте. Кажется, с его помощью создают только мобильные приложения, интернет-системы и спецэффекты для кино. Но первоначально программирование предназначалось для решения научных задач. Кроме того, программирование само — наука, узнать о которой будет полезно тем, кто решил связать карьеру с компьютерной разработкой.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-научное-программирование&#34;&gt;Что такое Научное программирование?&lt;/h2&gt;

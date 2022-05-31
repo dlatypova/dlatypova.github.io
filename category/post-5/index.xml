@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post 5 | D. Latypova</title>
-    <link>https://example.com/category/post-5/</link>
-      <atom:link href="https://example.com/category/post-5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/category/post-5/</link>
+      <atom:link href="https://dlatypova.github.io/category/post-5/index.xml" rel="self" type="application/rss+xml" />
     <description>post 5</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>post 5</title>
-      <link>https://example.com/category/post-5/</link>
+      <link>https://dlatypova.github.io/category/post-5/</link>
     </image>
     
     <item>
       <title>Linux network capabilities</title>
-      <link>https://example.com/post/linux/</link>
+      <link>https://dlatypova.github.io/post/linux/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/linux/</guid>
+      <guid>https://dlatypova.github.io/post/linux/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Linux operating system is the most popular representative of &amp;ldquo;free software&amp;rdquo;. A network is a means that allows two or more computers to connect to each other. Most of the basic functions (file systems, printing, creating backups) can be implemented via the network. This greatly facilitates the work of the system administrator, as it allows you to use centralized administration. Server applications, firewalls, and computer attack detection systems work reliably under Linux OS.&lt;/p&gt;
 &lt;h2 id=&#34;a-multi-level-approach-to-the-organization-of-network-interactions&#34;&gt;A multi-level approach to the organization of network interactions&lt;/h2&gt;
@@ -52,9 +52,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>My 5 last week</title>
-      <link>https://example.com/post/my_last_week-5/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-5/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-5/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-5/</guid>
       <description>&lt;h2 id=&#34;how-was-my-fourth-week&#34;&gt;How was my fourth week?&lt;/h2&gt;
 &lt;p&gt;Last week I closed all the debts. I wrote a test paper on the Russian language, passed laboratory work and homework in C++. I also did laboratory work on the OS and programmed a little in the Arduino language.&lt;/p&gt;
 &lt;p&gt;In the course of laboratory work No. 11 and No. 12 on the OS, I learned the basics of programming in the UNIX OS shell and learned how to write more complex command files using logical control structures and loops. I also presented a report last week. This week we are finally finishing the laboratory work.&lt;/p&gt;

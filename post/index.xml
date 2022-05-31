@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | D. Latypova</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/post/</link>
+      <atom:link href="https://dlatypova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://dlatypova.github.io/post/</link>
     </image>
     
     <item>
       <title>Linux network capabilities</title>
-      <link>https://example.com/post/linux/</link>
+      <link>https://dlatypova.github.io/post/linux/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/linux/</guid>
+      <guid>https://dlatypova.github.io/post/linux/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Linux operating system is the most popular representative of &amp;ldquo;free software&amp;rdquo;. A network is a means that allows two or more computers to connect to each other. Most of the basic functions (file systems, printing, creating backups) can be implemented via the network. This greatly facilitates the work of the system administrator, as it allows you to use centralized administration. Server applications, firewalls, and computer attack detection systems work reliably under Linux OS.&lt;/p&gt;
 &lt;h2 id=&#34;a-multi-level-approach-to-the-organization-of-network-interactions&#34;&gt;A multi-level approach to the organization of network interactions&lt;/h2&gt;
@@ -52,9 +52,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>My 5 last week</title>
-      <link>https://example.com/post/my_last_week-5/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-5/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-5/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-5/</guid>
       <description>&lt;h2 id=&#34;how-was-my-fourth-week&#34;&gt;How was my fourth week?&lt;/h2&gt;
 &lt;p&gt;Last week I closed all the debts. I wrote a test paper on the Russian language, passed laboratory work and homework in C++. I also did laboratory work on the OS and programmed a little in the Arduino language.&lt;/p&gt;
 &lt;p&gt;In the course of laboratory work No. 11 and No. 12 on the OS, I learned the basics of programming in the UNIX OS shell and learned how to write more complex command files using logical control structures and loops. I also presented a report last week. This week we are finally finishing the laboratory work.&lt;/p&gt;
@@ -64,9 +64,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>My 4 last week</title>
-      <link>https://example.com/post/my_last_week-4/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-4/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-4/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-4/</guid>
       <description>&lt;h2 id=&#34;how-was-my-fourth-week&#34;&gt;How was my fourth week?&lt;/h2&gt;
 &lt;p&gt;Last week was not full of bright events again. As always, I did laboratory work on the OS and programmed a little in C++.&lt;/p&gt;
 &lt;p&gt;In the process of doing laboratory work No. 9 on OS, I gained practical skills in working with the Emacs editor. The emacs editor turned out to be more convenient than the vi editor. In laboratory work No. 10 on OS, I learned the basics of programming in the UNIX/Linux OS shell and learned how to write small batch files. The end of the module is coming soon, so I want to finish the lab work as soon as possible.&lt;/p&gt;
@@ -77,9 +77,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>Scientific Programming</title>
-      <link>https://example.com/post/scientific-prog/</link>
+      <link>https://dlatypova.github.io/post/scientific-prog/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-prog/</guid>
+      <guid>https://dlatypova.github.io/post/scientific-prog/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Programming is often mentioned in an applied context. It seems that only mobile applications, Internet systems and special effects for movies are created with its help. But initially programming was intended for solving scientific problems. In addition, programming itself is a science, which will be useful to learn about for those who have decided to link a career with computer development.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-scientific-programming&#34;&gt;What is Scientific Programming?&lt;/h2&gt;
@@ -101,9 +101,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>About reports...</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://dlatypova.github.io/post/report/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://dlatypova.github.io/post/report/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Compiling a report on the practice, the student evaluates the results of the work and draws conclusions about his qualifications, knowledge and skills acquired at the university. In order for a job to be accepted, it must be not only competent and informative.&lt;/p&gt;
 &lt;h2 id=&#34;rules-of-registration&#34;&gt;Rules of registration&lt;/h2&gt;
@@ -210,9 +210,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>My 3 last week</title>
-      <link>https://example.com/post/my_last_week-3/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-3/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-3/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-3/</guid>
       <description>&lt;h2 id=&#34;how-was-my-third-week&#34;&gt;How was my third week?&lt;/h2&gt;
 &lt;p&gt;Last week I had more Arduino programming. And in general, the week passed as well as the past.&lt;/p&gt;
 &lt;p&gt;In laboratory work №7 on the OS, I mastered the basic capabilities of the Midnight Commander command shell, and also acquired practical skills in viewing directories and files; manipulating them. In laboratory work №8, I got acquainted with the Linux operating system and gained practical skills working with the vi editor installed by default in almost all distributions. Laboratory work was not particularly difficult. I did seven laboratory works on Arduino, each of them was interesting.&lt;/p&gt;
@@ -222,9 +222,9 @@ Commands for working with network interfaces:&lt;/p&gt;
     
     <item>
       <title>Lightweight markup languages</title>
-      <link>https://example.com/post/markup_languages/</link>
+      <link>https://dlatypova.github.io/post/markup_languages/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markup_languages/</guid>
+      <guid>https://dlatypova.github.io/post/markup_languages/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;What is a &amp;ldquo;markup language&amp;rdquo;?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A markup language is a set of codes that, when applied to plain text, allows you to add one or more of the following properties (among others):&lt;/p&gt;
@@ -287,9 +287,9 @@ They are used where a person has to prepare text in a regular text editor (blogs
     
     <item>
       <title>My 2 last week</title>
-      <link>https://example.com/post/my_last_week-2/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-2/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-2/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-2/</guid>
       <description>&lt;h2 id=&#34;how-was-my-second-week&#34;&gt;How was my second week?&lt;/h2&gt;
 &lt;p&gt;Last week, in honor of the holiday, we had one day off. On this day, my friends and I took a walk around Moscow. The rest of my days were also devoted to Laboratory work on OS, programming technology and a Computer workshop on IT.&lt;/p&gt;
 &lt;p&gt;According to the OS, we did the 2nd stage of the project and two laboratory works №5 and №6. In Laboratory work №5, I got acquainted with the Linux file system, its structure, names and contents of directories. In addition, I acquired practical skills in using commands to work with files and directories, managing processes (and works), checking disk usage and maintaining the file system. And in Laboratory work №6, I got acquainted with the tools for searching files and filtering text data.&lt;/p&gt;
@@ -300,9 +300,9 @@ They are used where a person has to prepare text in a regular text editor (blogs
     
     <item>
       <title>My 1 last week</title>
-      <link>https://example.com/post/my_last_week/</link>
+      <link>https://dlatypova.github.io/post/my_last_week/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week/</guid>
       <description>&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;p&gt;My last week flew by unnoticed. For almost the whole week, I was dealing with Operating systems and a Computer workshop on IT. Over the past week, I have completed two laboratory works and the stage 1st of an Individual project on Operating systems, as well as laboratory work on a Computer workshop on IT.&lt;/p&gt;
 &lt;p&gt;That week was fun, because during the installation of the second operating system (Linux) on my laptop, Windows was accidentally demolished. The only thing that calmed me was that there were no particularly important documents, since I reinstalled it before starting my studies. Because of this oversight, I had to reinstall everything.&lt;/p&gt;
@@ -314,9 +314,9 @@ They are used where a person has to prepare text in a regular text editor (blogs
     
     <item>
       <title>Version control. Git</title>
-      <link>https://example.com/post/git/</link>
+      <link>https://dlatypova.github.io/post/git/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://dlatypova.github.io/post/git/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In recent years, the popularity of git has shown explosive growth. This version control system is used by various open source projects. You can start by learning the most commonly used commands, and then gradually expand your knowledge. This is exactly what we will do in this article.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;

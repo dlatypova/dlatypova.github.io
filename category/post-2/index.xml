@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post 2 | D. Latypova</title>
-    <link>https://example.com/category/post-2/</link>
-      <atom:link href="https://example.com/category/post-2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dlatypova.github.io/category/post-2/</link>
+      <atom:link href="https://dlatypova.github.io/category/post-2/index.xml" rel="self" type="application/rss+xml" />
     <description>post 2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dlatypova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>post 2</title>
-      <link>https://example.com/category/post-2/</link>
+      <link>https://dlatypova.github.io/category/post-2/</link>
     </image>
     
     <item>
       <title>Lightweight markup languages</title>
-      <link>https://example.com/post/markup_languages/</link>
+      <link>https://dlatypova.github.io/post/markup_languages/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markup_languages/</guid>
+      <guid>https://dlatypova.github.io/post/markup_languages/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;What is a &amp;ldquo;markup language&amp;rdquo;?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A markup language is a set of codes that, when applied to plain text, allows you to add one or more of the following properties (among others):&lt;/p&gt;
@@ -79,9 +79,9 @@ They are used where a person has to prepare text in a regular text editor (blogs
     
     <item>
       <title>My 2 last week</title>
-      <link>https://example.com/post/my_last_week-2/</link>
+      <link>https://dlatypova.github.io/post/my_last_week-2/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/my_last_week-2/</guid>
+      <guid>https://dlatypova.github.io/post/my_last_week-2/</guid>
       <description>&lt;h2 id=&#34;how-was-my-second-week&#34;&gt;How was my second week?&lt;/h2&gt;
 &lt;p&gt;Last week, in honor of the holiday, we had one day off. On this day, my friends and I took a walk around Moscow. The rest of my days were also devoted to Laboratory work on OS, programming technology and a Computer workshop on IT.&lt;/p&gt;
 &lt;p&gt;According to the OS, we did the 2nd stage of the project and two laboratory works №5 and №6. In Laboratory work №5, I got acquainted with the Linux file system, its structure, names and contents of directories. In addition, I acquired practical skills in using commands to work with files and directories, managing processes (and works), checking disk usage and maintaining the file system. And in Laboratory work №6, I got acquainted with the tools for searching files and filtering text data.&lt;/p&gt;
