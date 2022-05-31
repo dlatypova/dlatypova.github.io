@@ -4,16 +4,6 @@
   
   
   <url>
-    <loc>https://example.com/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/"
-    /></url>
-  <url>
     <loc>https://example.com/ru/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -32,6 +22,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://example.com/ru/event/"
+    /></url>
+  <url>
+    <loc>https://example.com/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://example.com/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://example.com/ru/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
