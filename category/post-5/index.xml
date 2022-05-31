@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post 5 | Academic</title>
+    <link>https://example.com/category/post-5/</link>
+      <atom:link href="https://example.com/category/post-5/index.xml" rel="self" type="application/rss+xml" />
+    <description>post 5</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>post 5</title>
+      <link>https://example.com/category/post-5/</link>
+    </image>
+    
+    <item>
+      <title>Linux network capabilities</title>
+      <link>https://example.com/post/linux/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/linux/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The Linux operating system is the most popular representative of &amp;ldquo;free software&amp;rdquo;. A network is a means that allows two or more computers to connect to each other. Most of the basic functions (file systems, printing, creating backups) can be implemented via the network. This greatly facilitates the work of the system administrator, as it allows you to use centralized administration. Server applications, firewalls, and computer attack detection systems work reliably under Linux OS.&lt;/p&gt;
+&lt;h2 id=&#34;a-multi-level-approach-to-the-organization-of-network-interactions&#34;&gt;A multi-level approach to the organization of network interactions&lt;/h2&gt;
+&lt;p&gt;The process of interaction between nodes of a computer network is complex. Difficulties are associated with both data-signals-data conversion and signal transmission over heterogeneous networks. To illustrate the process of data transmission on the Internet, you can, for example, use the traceroute command (tracert in Windows) to study the list of intermediate nodes through which network packets pass on the way from the user&amp;rsquo;s computer to some Internet resource.&lt;/p&gt;
+&lt;p&gt;The task of providing network communications is solved using a multilevel hierarchical approach. At the node, the software components of this level &amp;ldquo;communicate&amp;rdquo; only with neighboring levels, while the interfaces between neighboring levels are clearly defined.&lt;/p&gt;
+&lt;h2 id=&#34;linux-networking-capabilities&#34;&gt;Linux Networking capabilities&lt;/h2&gt;
+&lt;p&gt;Linux networking capabilities provide a full set of TCP/IP protocols for Internet use and supports the full range of TCP/IP clients and services, such as FTP, TELNET, NNTP and SMTP. It is possible to access the Internet without installing a network adapter by installing a modem and the Point-to-Point Protocol. Linux OS provides an efficient and reliable PPR gateway for remote users over a switching line. When using the network to connect to the system, in addition to a large number of getty processes, a separate daemon program is used that monitors all attempts to connect to the computer.&lt;/p&gt;
+&lt;h2 id=&#34;managing-network-interfaces-in-linux&#34;&gt;Managing network interfaces in Linux&lt;/h2&gt;
+&lt;p&gt;In fact, to use a network interface, you need to configure some network layer protocol on it (for example, IP protocol).
+Commands for working with network interfaces:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# ip link show is a command for managing network interfaces at the network access level.
+
+# ip link show dev eth0 - output of information about this interface
+
+# ip link set mtu 1400 eth1 - allows you to change some properties of the network interface.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Using ip link, you can enable or disable the network interface:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# ip link set down eth1
+
+# ip link set up eth1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;ip-protocol-as-a-means-of-organizing-inter-network-interaction&#34;&gt;IP protocol as a means of organizing inter-network interaction&lt;/h2&gt;
+&lt;p&gt;The basis of the network layer is the Internet Protocol IP (Internet Protocol), which has the following key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IP implements the data of the overlying layers into the corresponding units of information transmission - network packets;&lt;/li&gt;
+&lt;li&gt;IP is a connectionless protocol;&lt;/li&gt;
+&lt;li&gt;IP is a routable protocol. The organization of the IP protocol provides a packet delivery scheme based on IP addressing and grouping of network nodes in a subnet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Today we learned that Linux OS has a wide range of networking capabilities. Linux was originally created to work with the network, therefore, working with the network is one of its strengths. A good knowledge of all the major network commands is vital.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My 5 last week</title>
+      <link>https://example.com/post/my_last_week-5/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_last_week-5/</guid>
+      <description>&lt;h2 id=&#34;how-was-my-fourth-week&#34;&gt;How was my fourth week?&lt;/h2&gt;
+&lt;p&gt;Last week I closed all the debts. I wrote a test paper on the Russian language, passed laboratory work and homework in C++. I also did laboratory work on the OS and programmed a little in the Arduino language.&lt;/p&gt;
+&lt;p&gt;In the course of laboratory work No. 11 and No. 12 on the OS, I learned the basics of programming in the UNIX OS shell and learned how to write more complex command files using logical control structures and loops. I also presented a report last week. This week we are finally finishing the laboratory work.&lt;/p&gt;
+&lt;p&gt;In fact, it is quite difficult to switch from one programming language to another in one week. It&amp;rsquo;s good that the training module ends soon and the next weeks will be credits.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

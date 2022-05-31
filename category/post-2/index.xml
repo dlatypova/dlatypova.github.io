@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Lightweight markup languages.</title>
+      <title>Lightweight markup languages</title>
       <link>https://example.com/post/markup_languages/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markup_languages/</guid>
@@ -62,15 +62,15 @@ They are used where a person has to prepare text in a regular text editor (blogs
 &lt;p&gt;Various auto-documentation systems (for example, Javadoc).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;html&#34;&gt;HTML&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;HTML&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The most common language is HTML (an abbreviation of the English Hypertext Markup Language − &amp;ldquo;hypertext markup language&amp;rdquo;). It is standard for Internet documents, with its help all web pages are created. Documents that contain a special code are processed by browsers and presented to users in a convenient interface. Thus, you get the opportunity to view pages, print them, use them to transfer data to servers.&lt;/p&gt;
-&lt;h2 id=&#34;textile&#34;&gt;Textile&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Textile&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It is one of the simplest markup languages, has somewhat more functionality. Its main task is to automatically convert text into markup while maintaining the breakdown into paragraphs. The language is used in CMS Textpattern.&lt;/p&gt;
-&lt;h2 id=&#34;bbcode&#34;&gt;BBCode&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;BBCode&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The abbreviation from the English Bulletin Board Code is a markup language that is used for formatting (formatting) messages on various electronic bulletin boards, forums, comments, personal messages, and so on. Tags similar to HTML tags are used to format the text. Unlike HTML tags, BBCode is enclosed in square brackets.&lt;/p&gt;
-&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It is a markup language that is capable of automating many operations related to the layout of documents, such as automatic page numbering, creation of tables, illustrations, formulas, cross-references, headers, footers, subject indexes, tables of contents and references. Being distributed under the LaTeX Project Public License, LaTeX refers to free software.&lt;/p&gt;
-&lt;h2 id=&#34;markdown&#34;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Markdown is an easy way to add formatting. — for example, headings, bold/italic text and lists — in plain text. Instead of relying on HTML or WYSIWYG editors, Markdown allows you to create full pages of formatted text without having to take your fingers off the keyboard, and it&amp;rsquo;s all much more intuitive than HTML.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;While the idea of using markup languages with text documents was developing, this increased the use of markup languages in other areas, they suggested using them to represent various types of information, including playlists, vector graphics, web services, user interfaces.&lt;/p&gt;

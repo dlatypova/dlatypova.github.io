@@ -27,7 +27,7 @@
     </item>
     
     <item>
-      <title>Version control. Git.</title>
+      <title>Version control. Git</title>
       <link>https://example.com/post/git/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/git/</guid>
@@ -41,9 +41,9 @@
 &lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Centralized version control systems&lt;/strong&gt; are client-server applications, when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;CVS (Concurrent Versions System, Simultaneous Versions System)&lt;/strong&gt; is one of the first systems that became widespread among developers, it originated in the late 80s of the last century. Currently, this product is not being developed, this is primarily due to a number of key drawbacks, such as the inability to rename files, inefficient storage, and almost complete lack of integrity control.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Subversion&lt;/strong&gt; (SVN) is a version control system created to replace CVS. SVN was developed in 2004 and is still in use. Despite many advantages over CVS, SVN still has disadvantages, such as problems with renaming, inability to delete data from storage, problems in the branch merge operation, etc. In general, SVN was (and remains) a significant step forward compared to CVS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Subversion (SVN)&lt;/strong&gt; is a version control system created to replace CVS. SVN was developed in 2004 and is still in use. Despite many advantages over CVS, SVN still has disadvantages, such as problems with renaming, inability to delete data from storage, problems in the branch merge operation, etc. In general, SVN was (and remains) a significant step forward compared to CVS.&lt;/p&gt;
 &lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Distributed Version Control Systems&lt;/strong&gt; (DVCS) allow you to store a repository (a copy of it) for each developer working with this system. At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After making a sufficient number of changes to the local copy, they (changes) are sent to the server. At the same time, the server is most often chosen conditionally, since in most DVCS there is no such thing as a “dedicated server with a central repository&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Distributed Version Control Systems (DVCS)&lt;/strong&gt; allow you to store a repository (a copy of it) for each developer working with this system. At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After making a sufficient number of changes to the local copy, they (changes) are sent to the server. At the same time, the server is most often chosen conditionally, since in most DVCS there is no such thing as a “dedicated server with a central repository&amp;quot;.&lt;/p&gt;
 &lt;h2 id=&#34;git-hosting&#34;&gt;Git hosting&lt;/h2&gt;
 &lt;p&gt;A number of services provide hosting for git repositories, among the most famous are GitHub, Codebase, SourceForge, SourceHut, Gitea, Bitbucket, GitLab.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-an-ssh-key-and-why-is-it-needed&#34;&gt;What is an SSH key and why is it needed?&lt;/h2&gt;

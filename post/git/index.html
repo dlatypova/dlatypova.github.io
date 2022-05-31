@@ -67,6 +67,8 @@
   <meta name="description" content="Getting to know information about Version Control and Git" />
 
   
+    <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/git/" />
+  
   <link rel="alternate" hreflang="en-us" href="https://example.com/post/git/" />
 
   
@@ -308,7 +310,7 @@
   
   <meta property="og:site_name" content="Academic" />
   <meta property="og:url" content="https://example.com/post/git/" />
-  <meta property="og:title" content="Version control. Git. | Academic" />
+  <meta property="og:title" content="Version control. Git | Academic" />
   <meta property="og:description" content="Getting to know information about Version Control and Git" /><meta property="og:image" content="https://example.com/post/git/featured.jpg" />
     <meta property="twitter:image" content="https://example.com/post/git/featured.jpg" /><meta property="og:locale" content="en-us" />
   
@@ -344,7 +346,7 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/git/"
   },
-  "headline": "Version control. Git.",
+  "headline": "Version control. Git",
   
   "image": [
     "https://example.com/post/git/featured.jpg"
@@ -382,7 +384,7 @@
 
 
 
-  <title>Version control. Git. | Academic</title>
+  <title>Version control. Git | Academic</title>
 </head>
 
 
@@ -751,6 +753,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/git/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -795,7 +813,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Version control. Git.</h1>
+  <h1>Version control. Git</h1>
 
   
   <p class="page-subtitle">Getting to know information about Version Control and Git</p>
@@ -864,7 +882,7 @@
 <div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1200px; max-height: 566px;">
   <div style="position: relative">
     <img src="/post/git/featured_huda57afaa48c8d8e235f6c2059a3be299_35108_1200x2500_fit_q75_h2_lanczos.webp" width="1200" height="566" alt="" class="featured-image">
-    <span class="article-header-caption">Image: <a href="https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg" target="_blank" rel="noopener"><strong>Version control. Git</strong></a></span>
+    <span class="article-header-caption"><a href="https://analyse-innovation-solution.fr/applications/my_app/files/images/git-versionning-git-checkout-git-merge.jpg" target="_blank" rel="noopener"><strong>Version control. Git</strong></a></span>
   </div>
 </div>
 
@@ -883,9 +901,9 @@
 <h2 id="centralized-version-control-systems">Centralized version control systems</h2>
 <p><strong>Centralized version control systems</strong> are client-server applications, when the project repository exists in a single instance and is stored on the server. Access to it was carried out through a special client application.</p>
 <p><strong>CVS (Concurrent Versions System, Simultaneous Versions System)</strong> is one of the first systems that became widespread among developers, it originated in the late 80s of the last century. Currently, this product is not being developed, this is primarily due to a number of key drawbacks, such as the inability to rename files, inefficient storage, and almost complete lack of integrity control.</p>
-<p><strong>Subversion</strong> (SVN) is a version control system created to replace CVS. SVN was developed in 2004 and is still in use. Despite many advantages over CVS, SVN still has disadvantages, such as problems with renaming, inability to delete data from storage, problems in the branch merge operation, etc. In general, SVN was (and remains) a significant step forward compared to CVS.</p>
+<p><strong>Subversion (SVN)</strong> is a version control system created to replace CVS. SVN was developed in 2004 and is still in use. Despite many advantages over CVS, SVN still has disadvantages, such as problems with renaming, inability to delete data from storage, problems in the branch merge operation, etc. In general, SVN was (and remains) a significant step forward compared to CVS.</p>
 <h2 id="distributed-version-control-systems">Distributed version control systems</h2>
-<p><strong>Distributed Version Control Systems</strong> (DVCS) allow you to store a repository (a copy of it) for each developer working with this system. At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After making a sufficient number of changes to the local copy, they (changes) are sent to the server. At the same time, the server is most often chosen conditionally, since in most DVCS there is no such thing as a “dedicated server with a central repository&quot;.</p>
+<p><strong>Distributed Version Control Systems (DVCS)</strong> allow you to store a repository (a copy of it) for each developer working with this system. At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. When working with such a system, users periodically synchronize their local repositories with the central one and work directly with their local copy. After making a sufficient number of changes to the local copy, they (changes) are sent to the server. At the same time, the server is most often chosen conditionally, since in most DVCS there is no such thing as a “dedicated server with a central repository&quot;.</p>
 <h2 id="git-hosting">Git hosting</h2>
 <p>A number of services provide hosting for git repositories, among the most famous are GitHub, Codebase, SourceForge, SourceHut, Gitea, Bitbucket, GitLab.</p>
 <h2 id="what-is-an-ssh-key-and-why-is-it-needed">What is an SSH key and why is it needed?</h2>
@@ -922,7 +940,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://example.com/post/git/&amp;text=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://example.com/post/git/&amp;text=Version%20control.%20Git" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -935,7 +953,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://example.com/post/git/&amp;t=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://example.com/post/git/&amp;t=Version%20control.%20Git" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -948,7 +966,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       
       
       <li>
-        <a href="mailto:?subject=Version%20control.%20Git.&amp;body=https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Version%20control.%20Git&amp;body=https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -961,7 +979,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/post/git/&amp;title=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/post/git/&amp;title=Version%20control.%20Git" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -974,7 +992,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       
       
       <li>
-        <a href="whatsapp://send?text=Version%20control.%20Git.%20https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Version%20control.%20Git%20https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -987,7 +1005,7 @@ Each SSH key contains a pair: a public (public) and a private (private) key. The
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://example.com/post/git/&amp;title=Version%20control.%20Git." target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://example.com/post/git/&amp;title=Version%20control.%20Git" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
